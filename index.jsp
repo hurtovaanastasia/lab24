@@ -40,10 +40,10 @@
 %>
 
 <form>
-    <label>Введите x (|x| &lt; 1):</label>
+    Введите x (|x| &lt; 1):
     <input type="text" name="x" required />
     <br/>
-    <label>Введите количество повторений (n &gt; 0):</label>
+    Введите количество повторений (n &gt; 0):
     <input type="text" name="n" required />
     <br/>
     <input type="submit" value="Посчитать"/>
